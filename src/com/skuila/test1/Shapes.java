@@ -1,4 +1,4 @@
-package com.skuila.test27;
+package com.skuila.test1;
 
 public abstract class Shapes {
 	

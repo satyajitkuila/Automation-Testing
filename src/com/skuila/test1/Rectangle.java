@@ -1,4 +1,4 @@
-package com.skuila.test27;
+package com.skuila.test1;
 
 public class Rectangle extends Shapes {
 
